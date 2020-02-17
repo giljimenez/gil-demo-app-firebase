@@ -5,24 +5,24 @@ Welcome to my sandbox experiment. Here I want to build a sample app with a few e
 ## Technologies
 
 ### Fork 1
-* Google Firebase
-* Google Analytics
-* Firebase Crashlytics
-* Firebase A/B Testing
-* Firebase In-App Messaging
+:heavy_check_mark: Google Firebase
+:heavy_check_mark: Google Analytics
+:radio_button: Firebase Crashlytics
+:radio_button: Firebase A/B Testing
+:radio_button: Firebase In-App Messaging
 
 ### Fork 2
-* Adobe Experience Platform Mobile SDKs
-* Mobile Core
-* Profile
-* Adobe Analytics
-* Adobe Target
-* Adobe Campaign Standard
+:radio_button: Adobe Experience Platform Mobile SDKs
+:radio_button: Mobile Core
+:radio_button: Profile
+:radio_button: Adobe Analytics
+:radio_button: Adobe Target
+:radio_button: Adobe Campaign Standard
 
 ### Reach Goal
-* Google Ads
-* Location Service (Adobe)
-* Facebook Marketing API
+:radio_button: Google Ads
+:radio_button: Location Service (Adobe)
+:radio_button: Facebook Marketing API
 
 See the [AEP Mobile SDK Docs](https://aep-sdks.gitbook.io/docs/)
 See the [Firebase Docs](https://firebase.google.com/docs)
