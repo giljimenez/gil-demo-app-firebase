@@ -7,7 +7,7 @@ Welcome to my sandbox experiment. Here I want to build a sample app with a few e
 ### Fork 1
 :heavy_check_mark: Google Firebase
 :heavy_check_mark: Google Analytics
-:radio_button: Firebase Crashlytics
+:heavy_check_mark: Firebase Crashlytics
 :radio_button: Firebase A/B Testing
 :radio_button: Firebase In-App Messaging
 
