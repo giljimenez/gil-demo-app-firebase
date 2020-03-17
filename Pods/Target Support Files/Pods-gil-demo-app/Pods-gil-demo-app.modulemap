@@ -1,0 +1,6 @@
+framework module Pods_gil_demo_app {
+  umbrella header "Pods-gil-demo-app-umbrella.h"
+
+  export *
+  module * { export * }
+}

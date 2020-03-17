@@ -1,11 +1,17 @@
 import UIKit
 
+//importing Firebase
+import Firebase
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
+        //Registering Firebase with the app
+        FirebaseApp.configure()
         return true
     }
 
