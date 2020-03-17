@@ -5,9 +5,13 @@ Welcome to my sandbox experiment. Here I want to build a sample app with a few e
 ## Technologies
 
 :heavy_check_mark: Google Firebase
+
 :heavy_check_mark: Google Analytics
+
 :heavy_check_mark: Firebase Crashlytics
+
 :radio_button: Firebase A/B Testing
+
 :heavy_check_mark: Firebase In-App Messaging
 
 ### Reach Goal
